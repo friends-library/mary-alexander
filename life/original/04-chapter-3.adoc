@@ -1,11 +1,15 @@
 == Chapter III.
 
+[.chapter-subtitle--blurb]
 (First month, 1794, to Tenth month, 1795.)
 
-Visits Norwich,
-etc.--Decease of an individual at Needham.--William Bleckley`'s decease.--Burial
-of M. Crowley.--Cambridgeshire and Huntingdonshire --Lincolnshire,
-and York Quarterly meeting.
+[.chapter-synopsis]
+* Visits Norwich, etc.
+* Decease of an individual at Needham
+* William Bleckley`'s decease
+* Burial of M. Crowley
+* Cambridgeshire and Huntingdonshire
+* Lincolnshire, and York Quarterly meeting
 
 Very soon after the close of the visit to the monthly meetings, etc.,
 my mind became again deeply impressed with the before-mentioned
@@ -44,15 +48,15 @@ in great poverty of spirit; and sometimes when utterance was granted,
 but little relief was obtained;
 so that I was ready often to doubt whether all that I had ever felt,
 concerning this engagement, was not a delusion of the great adversary of mankind.
-Yea, I was fearful lest I had put my hand unbidden to the Lord`'s work, and, Uzza like,
+Yea, I was fearful lest I had put my hand unbidden to the Lord`'s work, and, Uzza-like,
 might fall a victim to the displeasure of an offended Creator.
 But, blessed be the name of Israel`'s God, and I humbly trust my holy Leader,
 when I had filled up such a portion of suffering for his pure seed`'s sake,
 as he saw meet to appoint, he was pleased to say, "`It is enough,`" 2 Sam. 24:16;
 and "`to proclaim liberty to the captive;
 and the opening of the prison to that which was bound.`"
-Isaiah Ixi.
-1+++.+++ Then I was, in some families,
+Isaiah 61:1
+Then I was, in some families,
 enabled to tell of the Lord`'s gracious dealings with my soul,
 thereby endeavouring to persuade others, to enlist under the banner of the Lamb,
 who is also "`the Lion of the tribe of Judah, the Root of David,`" Rev. 5:5,
@@ -62,9 +66,7 @@ the supporting and sustaining arm of never-failing power, was experienced to be 
 at times, to my humbling admiration; and, on leaving the place,
 I was permitted to receive a little portion of "`the oil of joy for mourning,
 and the garment of praise for the spirit of heaviness.`"
-
-Isaiah Ixi.
-3.
+Isaiah 61:3.
 
 At different times, whilst we were at Norwich, we visited three neighbouring meetings,
 besides the burial before mentioned, viz., on first-day the 2nd of the second month,
@@ -135,9 +137,7 @@ I believe it was a day of merciful visitation to several of his beloved offsprin
 I trust, have since been made sensible of the truth of David`'s declaration,
 where he says: "`A father of the fatherless, and a judge of the widows,
 is God in his holy habitation.`"
-Psal.
-Ixviii.
-5.
+Psal. 68:5.
 
 1795+++.+++ In the forepart of this year, in company with two of my brothers,
 I attended the burial of my beloved friend Mary Crowley.

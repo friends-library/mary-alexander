@@ -1,12 +1,17 @@
 == Chapter VII.
 
+[.chapter-subtitle--blurb]
 (Twelfth month, 1800, to the Ninth month, 1802.)
 
-Concern for the youth,
-etc.--Huntingdonshire and Cambridgeshire.--Religious prospects.--Visit to Surrey, Sussex,
-and Hampshire quarterly meetings,
-etc.--Returns home.--Visits sundry villages in her own county.--Burial
-of Isaac Brightwen.--Decease of +++_______+++.
+[.chapter-synopsis]
+* Concern for the youth, etc.
+* Huntingdonshire and Cambridgeshire
+* Religious prospects
+* Visit to Surrey, Sussex, and Hampshire quarterly meetings, etc.
+* Returns home
+* Visits sundry villages in her own county
+* Burial of Isaac Brightwen
+* Decease of +++_______+++
 
 Previously to our quarterly meeting, held here in the twelfth month this year,
 and during its sittings,

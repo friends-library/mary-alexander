@@ -1,10 +1,16 @@
 == Chapter XI.
 
+[.chapter-subtitle--blurb]
 (3rd of Twelfth month, 1806, to the 8th of Fourth month, 1807.)
 
-Reflections on a prospect of visiting London and Middlesex quarterly meeting,
-etc.--Tottenham.--Plaistow.--Tottenham.--Southgate.
---Grace-Church-Street monthly meeting.--Colchester.
+[.chapter-synopsis]
+* Reflections on a prospect of visiting London and Middlesex quarterly meeting, etc.
+* Tottenham
+* Plaistow
+* Tottenham
+* Southgate
+* Grace-Church-Street monthly meeting
+* Colchester
 
 Twelfth month 3rd, 1806.
 Yesterday I found strength to unfold to my friends, at our monthly meeting,

@@ -1,9 +1,14 @@
 == Chapter XII.
 
+[.chapter-subtitle--blurb]
 (21st of seventh month, 1808, to the 27th of eighth month, 1809.)
 
-Parts with her nephews W. H. A. and J. A.--with her sister Ann and brother William.--Visit
-to heads of families in her own monthly meeting.--York.--Returns home through Lincolnshire.
+[.chapter-synopsis]
+* Parts with her nephews W. H. A. and J. A.
+* with her sister Ann and brother William
+* Visit to heads of families in her own monthly meeting
+* York
+* Returns home through Lincolnshire
 
 1808+++.+++ Fifth-day, the 21st of seventh month.
 This day William Henry Alexander, and his brother Joseph, left Needham for Broughton.
@@ -82,7 +87,7 @@ in compliance with a recommendation of the last yearly meeting,
 in paying a visit to the heads of families,
 on the important subject of the fourth query.^
 footnote:[This query, which is the third to Women Friends, is as follows,
-viz.--`"Do Friends endeavour, by precept and example, to train up their children,
+viz.--"`Do Friends endeavour, by precept and example, to train up their children,
 servants, and those under their care, in a religious life and conversation,
 consistent with our Christian profession, in the frequent reading of the Holy Scriptures,
 and in plainness of speech, behaviour and apparel?`"]

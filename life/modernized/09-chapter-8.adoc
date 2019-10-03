@@ -1,12 +1,18 @@
 == Chapter VIII.
 
+[.chapter-subtitle--blurb]
 (Twelfth month 1802, to the Seventh month 1804.)
 
-A season of withdrawing, and trial.--Hitchin.--Visit to Friends`' families,
-etc. in Suffolk.--London yearly meeting.
---Her sister Ann`'s visit to America.--Reflections.--Renewal
-of a religious prospect alluded to,
-in 1801.--Cast before the monthly meeting.--Remark on her feelings upon such occasions.
+[.chapter-synopsis]
+* A season of withdrawing, and trial
+* Hitchin
+* Visit to Friends`' families, etc. in Suffolk
+* London yearly meeting
+* Her sister Ann`'s visit to America
+* Reflections
+* Renewal of a religious prospect alluded to, in 1801
+* Cast before the monthly meeting
+* Remark on her feelings upon such occasions
 
 The latter end of this year, and most of the first month 1803, I was at Ipswich,
 with my dear sister Hannah.
@@ -33,7 +39,8 @@ though not with sufficient clearness to satisfy me,
 the full time was come for opening it to my friends.
 
 In the latter end of this month,
-I accompanied my brother and sister W. and A. Alexander to Hitchin, where,
+I accompanied my brother and sister William and Ann
+Alexander to Hitchin, where,
 on fifth-day the 27th, we attended the interment of dear Joshua Wheeler.
 It was a solid meeting, and several lively testimonies were delivered therein;
 as there were likewise in an opportunity in his family in the evening.
@@ -261,8 +268,7 @@ for counsel to move according to divine appointment; that whether suffering or r
 that part destined for immortality,
 may be preserved in a state of acceptance with "`the
 High and Lofty One that inhabits eternity,
-whose name is Holy,`" Isaiah Ivii.
-15,
+whose name is Holy,`" Isaiah 62:15,
 and who still condescends to dwell with them that are of "`a contrite and humble spirit.`"
 
 Fifth month, 11th. In the forepart of this year,
@@ -329,4 +335,4 @@ does in degree lessen the weight of what is expressed.
 My dear brother Samuel, at the same time, informed Friends how he had been circumstanced,
 and that he felt most easy to propose to unite with me.
 Certificates for us were ordered to be prepared for next monthly meeting,
-to be held on fourth-day, the 1st of "`the eighth month.
+to be held on fourth-day, the 1st of the eighth month.

@@ -1,13 +1,16 @@
 == Chapter I.
 
+[.chapter-subtitle--blurb]
 (From her birth to the Eighth month, 1789.)
 
-Remarks by the Editor,
-including a testimony concerning her mother.--Her inducement for writing
-these memoirs.--A remarkable occurrence at ten years old.--Her first impression
-respecting a gift in the ministry.--On reading the scriptures,
-plays, and romances.--The death of her father, sister-in-law,
-and a near friend.--Further exercises respecting the ministry.
+[.chapter-synopsis]
+* Remarks by the Editor, including a testimony concerning her mother
+* Her inducement for writing these memoirs
+* A remarkable occurrence at ten years old
+* Her first impression respecting a gift in the ministry
+* On reading the scriptures, plays, and romances
+* The death of her father, sister-in-law, and a near friend
+* Further exercises respecting the ministry
 
 The subject of these memoirs was born the 7th of the Second month, 1760,
 and was the daughter of Dykes and Martha Alexander, of Necdham Market,
@@ -22,6 +25,10 @@ which, from the different avocations of the sexes, evade a father`'s most assidu
 The reader will be qualified to judge more completely of this loss,
 by perusing the following testimony.
 
+[.embedded-content-document.testimony]
+--
+
+[.letter-heading]
 A short Testimony from Woodbridge Monthly meeting, concerning Martha Alexander:
 
 Our friend Martha Alexander, late wife of Dykes Alexander, of Needham Market,
@@ -63,15 +70,17 @@ the 18th of the ninth month 1775; and her interment was respectfully attended,
 both by friends and neighbours, at Needham Market, the 25th of the same.
 She was aged near forty-nine, a minister about twenty-five years.`"
 
+--
+
 By comparing these dates,
 the reader will find that the writer of these memoirs was
 about thirty-eight years old when she thus commenced them.
 
-* * *
+[.asterism]
+'''
 
-Eleventh month 18th, 1798.
-
-It is not with the smallest supposition that anything I may have to commit to paper,
+Eleventh month 18th, 1798. It is not with the smallest supposition
+that anything I may have to commit to paper,
 can be likely to yield either edification or consolation to those who survive me,
 that I am induced to attempt to write down some circumstances of my life hitherto:
 but I am led to do it, from a belief which sometimes is the companion of my mind,
