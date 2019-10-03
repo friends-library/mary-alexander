@@ -1,11 +1,15 @@
 == Chapter X.
 
+[.chapter-subtitle--blurb]
 (First month, 1805, to the Ninth month, 1806.)
 
-Elizabeth Gibson`'s burial,
-and that of another individual.--Her sister Ann returns
-her certificates.--Quarterly meeting.--Accompanies W. Forster,
-Jr.--Quarterly meeting.--Earith.
+[.chapter-synopsis]
+* Elizabeth Gibson`'s burial, and that of another individual
+* Her sister Ann returns her certificates.
+* Quarterly meeting
+* Accompanies W. Forster, Jr.
+* Quarterly meeting
+* Earith
 
 Within a week after my brother and I had returned from our journey into Scotland,
 we left home again, accompanied by our dear brother Dykes,
@@ -135,7 +139,7 @@ at the close of the evening,
 I was mercifully favoured to believe I had done what was my duty to do, and no more,
 which afforded a ray of comfort to my drooping mind.
 
-Since our return home, though siill low and poor,
+Since our return home, though still low and poor,
 I feel satisfied that I complied with my brother`'s request to accompany him.
 Much do I desire the dear young people, who are just entering into life,
 and whom I much esteem, may be disposed to "`seek first the kingdom of God,

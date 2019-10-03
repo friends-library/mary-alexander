@@ -1,14 +1,42 @@
 == Chapter IX.
 
+[.chapter-subtitle--blurb]
 (3rd of Eighth month, 1804, to the 1st of First month, 1805.)
 
-Sets out on the visit to Scotland,
-etc.--Bury.--Little-port.--Chatteris.--Derby.--Cockermouth.--Parton.--Isle of Man.
---Whitehaven.--Dissington.--Cockermouth.--Mary
-Port.--Cockermouth quarterly meeting.--Graysouthen.--Dundee.--Kinmuck.--Balhalgardy.--Old
-Meldrutn.--Aberdeen.--Stonehaven.--Montrose.--Dundee.--Perth.--Glasgow.--Edinburgh monthly
-meeting.--Newcastle.--Shields.--Darlington,
-etc.--York.--Wellbourn.--Northampton quarterly meeting.--Chatteris.--Returns home.
+[.chapter-synopsis]
+* Sets out on the visit to Scotland, etc.
+* Bury
+* Little-port
+* Chatteris
+* Derby
+* Cockermouth
+* Parton
+* Isle of Man
+* Whitehaven
+* Dissington
+* Cockermouth
+* Mary Port
+* Cockermouth quarterly meeting
+* Graysouthen
+* Dundee
+* Kinmuck
+* Balhalgardy
+* Old Meldrutn
+* Aberdeen
+* Stonehaven
+* Montrose
+* Dundee
+* Perth
+* Glasgow
+* Edinburgh monthly meeting
+* Newcastle
+* Shields
+* Darlington, etc.
+* York
+* Wellbourn
+* Northampton quarterly meeting
+* Chatteris
+* Returns home
 
 Sixth-day, the 3rd of the eighth month.
 After so long a time of deep exercise,
@@ -506,7 +534,7 @@ My mind was led much to fear for an individual in particular, who, I believed,
 in days past, had known a beginning in the spiritual warfare;
 but who appeared in considerable danger of cherishing
 a propensity to be "`now made perfect by the flesh.`"
-Gal. iii, 3. This Friend coming to our inn,
+Gal. 3:3. This Friend coming to our inn,
 I had an opportunity with him which proved relieving to my mind.
 The word preached did not appear to have much entrance into the hearts of some;
 but blessed be the name of Him, whom I desire to serve, not the fruits of our doings,

@@ -1,4 +1,7 @@
-== Supplement by the Editor Containing some account of her last journey, also of her illness and decease.
+== Supplement by the Editor
+
+[.chapter-subtitle--blurb]
+Containing some account of her last journey, also of her illness and decease.
 
 The reader will probably have noticed a considerable chasm between the two last chapters;
 for concerning this period the Editor does not find any memorandum of her own.
@@ -29,14 +32,17 @@ She was accompanied to Worcester by her brother and sister Jesup.
 In a letter to her brother Samuel, from Warwick,
 after speaking of two Friends calling on her at Bury at Martha Brewster`'s, she says,
 
-"`Before we left that quiet dwelling,
+[.embedded-content-document.letter]
+--
+
+Before we left that quiet dwelling,
 my beloved M. B. in a little season of solid retirement, had a morsel to hand,
 which proved to my deeply discouraged mind, for some hours after, truly consoling: yet,
 I have repeatedly, since that time, experienced my faith to be, as it were,
 smaller than the grain of mustard seed;
 and I have been almost ready to doubt the rectitude of my present undertaking.
 At some other times a portion of holy aid has, in mercy,
-been so far extended as to lead me to hope I have not run without being sent.`"
+been so far extended as to lead me to hope I have not run without being sent.
 
 That evening we reached Hannah Evens`' hospitable habitation in good time for tea;
 and were not entirely unexpected.
@@ -60,6 +66,8 @@ accompanied with a persuasion,
 that not only a glorious mansion was prepared for the dear deceased;
 but that those who remained to lament her departure,
 were in a particular manner under the protecting wing of ancient Goodness.
+
+--
 
 At Worcester she was joined by William Forster, Jr.,
 (then in those parts on religious service) with a view of entering upon

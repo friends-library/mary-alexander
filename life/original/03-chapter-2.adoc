@@ -1,11 +1,18 @@
 == Chapter II.
 
+[.chapter-subtitle--blurb]
 (1790 to Twelfth month, 1793.)
 
-Her condition after appearing in the ministry.--Visit to a friend.--Acknowledged
-as a minister.--Visit to families at Woodbridge and Ipswich.--Norwich
-Quarterly Meeting.--Deep exercises of mind.--Beccles Monthly Meeting.--Bury
-Monthly Meeting.--Woodbridge Monthly Meeting.
+[.chapter-synopsis]
+* Her condition after appearing in the ministry
+* Visit to a friend
+* Acknowledged as a minister
+* Visit to families at Woodbridge and Ipswich
+* Norwich Quarterly Meeting
+* Deep exercises of mind
+* Beccles Monthly Meeting
+* Bury Monthly Meeting
+* Woodbridge Monthly Meeting
 
 In the course of the first twelve months after I opened my mouth in meetings,
 I was permitted to experience many different dispensations.
@@ -50,7 +57,7 @@ as that "`neither principalities, nor powers, nor things present, nor things to 
 nor height, nor depth, nor any other creature,
 may be able to separate`" my poor soul "`from the
 love of God which is in Christ Jesus our Lord.`"
-Rom. viii, 38, 39. Such a care is needful to preserve, from time to time,
+Rom. 8:38, 39. Such a care is needful to preserve, from time to time,
 in unreserved obedience to all His divine requisitions.
 
 In the eleventh month this year, I visited,
@@ -117,7 +124,7 @@ the flocks shall be cut off from the fold, and there shall be no herd in the sta
 yet I will rejoice in the Lord, I will joy in the God of my salvation.`" Hab. 3:17-18.
 Fully convinced I was of the truth of David`'s declaration,
 where he says, "`Thy people shall be willing in the day of thy power:`" Psal.
-ex. 3: and in that day only,
+110:3; and in that day only,
 I saw it was that the poor frail mind could be brought into a state of resignation,
 to receive its appointed portion of suffering for the precious cause sake.
 Yea, I was sometimes mercifully enabled to see, in this time,
@@ -143,11 +150,9 @@ Here I was permitted to leave the subject for a while, and my mind became,
 in some degree, relieved from its former exercises;
 so that I was enabled to engage in some little services at and about home.
 This I esteemed a mercy granted by my heavenly Father,
-having "`lain long among the pots,`" Psal.
-Ixviii.
+having "`lain long among the pots,`" Psal. 68:
 13, cast off`" and useless, and often been ready to query, "`Can these bones live?`"
-Ezek.
-xxxvii, 3.
+Ezek.37:3.
 
 About this time, at our summer quarterly meeting held at Woodbridge, in the sixth month,
 1793, three other Friends from the women`'s meeting, and myself,

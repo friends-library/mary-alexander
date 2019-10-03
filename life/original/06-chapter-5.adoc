@@ -1,15 +1,25 @@
 == Chapter V.
 
+[.chapter-subtitle--blurb]
 (Ninth month, 1796, to the Third month, 1798.)
 
-Her brother William`'s marriage,
-etc.--Visits some meetings in company with S. Harrison and S. Birkbeck.--Deep
-conflict of mind.--Visit to the Principality of Wales,
-etc.--Yearly meeting at Welch-Pool.--Coalbrook Dale.--Left her sister Ann at
-London yearly meeting.--Joined her again at Plaistow.--Visits Herefordshire,
-etc.--Macclesfield quarterly meeting,
-Wrexham in Wales.--Account of their visit to the Principality.--Melksham--is ill there--goes
-to Cirencester and returns home.--A dream.--Settles in her new habitation.
+[.chapter-synopsis]
+* Her brother William`'s marriage, etc.
+* Visits some meetings in company with S. Harrison and S. Birkbeck
+* Deep conflict of mind
+* Visit to the Principality of Wales, etc.
+* Yearly meeting at Welch-Pool
+* Coalbrook Dale
+* Left her sister Ann at London yearly meeting
+* Joined her again at Plaistow
+* Visits Herefordshire, etc.
+* Macclesfield quarterly meeting, Wrexham in Wales
+* Account of their visit to the Principality
+* Melksham
+* Is ill there
+* Goes to Cirencester and returns home
+* A dream
+* Settles in her new habitation
 
 In the ninth month this year, 1796, my brother William married my beloved friend Ann Tuke.
 Previously to their marriage,
@@ -161,6 +171,9 @@ approaching yearly meeting to be held in London,
 that it seemed safest to turn about, and endeavour to get there as early as we could,
 with taking meetings in our way.
 
+[.small-break]
+'''
+
 +++[+++To be thus led about,
 and so frequently turned from the object at which they were aiming,
 as was on several occasions, their experience in this journey,
@@ -170,6 +183,9 @@ To move in a feeling of weakness, and with such a portion of light,
 as could not reflect its beams on distant objects,
 but only just mark the present step with a safe degree of clearness,
 though very trying to the creature, teaches humble and full dependence on the Creator.]
+
+[.small-break]
+'''
 
 We arrived in London two days after the commencement of the yearly meeting;
 but I did not feel my mind at all bound to it, and still found my health, at times,
@@ -195,10 +211,16 @@ we unitedly addressed our monthly meeting for further credentials,
 and obtained the concurrence of our friends at home,
 to proceed as in the openings of truth might appear right.
 
+[.small-break]
+'''
+
 +++[+++Their peculiar situation excited much sympathy in the monthly meeting;
 and being attended with a feeling of near unity with their extended concern,
 their friends were induced to give them such a certificate
 as would fully liberate them to any service in this land.]
+
+[.small-break]
+'''
 
 After visiting divers counties, on the 13th and 14th of the ninth month,
 we attended the quarterly meeting held at Macclesfield, for Cheshire and Staffordshire.
@@ -342,7 +364,7 @@ On fourth-day, the 3rd of the first month, 1798, my brothers and sisters, and my
 all left Cirencester, where I had been very affectionately nursed for three weeks,
 at the house of my kind friends before mentioned, and went to Burford.
 
-The next day W. and A. A. left me there; and the day following,
+The next day William and Ann Alexander left me there; and the day following,
 accompanied by my brother Dykes and his wife,
 I went twenty-nine miles further on my way home.
 On the 9th we reached Walworth, where I was taken more unwell again,

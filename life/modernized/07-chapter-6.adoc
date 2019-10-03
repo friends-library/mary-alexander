@@ -1,11 +1,15 @@
 == Chapter VI.
 
+[.chapter-subtitle--blurb]
 (Fifth month, 1798 to the Eleventh month, 1800.)
 
-London yearly meeting.--Sundry meetings in Suffolk.--Endures a
-very trying dispensation.--Visits Tivetshall monthly meeting,
-etc.--Joins Elizabeth Coggeshall in visiting sundry places in Norfolk, Suffolk,
-Leicestershire, Derbyshire, Nottinghamshire, and Yorkshire--Returns home.
+[.chapter-synopsis]
+* London yearly meeting
+* Sundry meetings in Suffolk
+* Endures a very trying dispensation
+* Visits Tivetshall monthly meeting, etc.
+* Joins Elizabeth Coggeshall in visiting sundry places in Norfolk, Suffolk, Leicestershire, Derbyshire, Nottinghamshire, and Yorkshire
+* Returns home
 
 At our monthly meeting in the fifth month, 1798,
 I mentioned a prospect I had of appointing a Few public

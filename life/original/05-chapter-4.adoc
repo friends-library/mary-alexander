@@ -1,8 +1,12 @@
 == Chapter IV.
 
+[.chapter-subtitle--blurb]
 (22nd of Eleventh month, 1795, to the 8th of Second month, 1796.)
 
-A meeting at Walton--Debenham--Writes to a Friend imprisoned on account of tithes.
+[.chapter-synopsis]
+* A meeting at Walton
+* Debenham
+* Writes to a Friend imprisoned on account of tithes
 
 Some Friends feeling their minds drawn towards the inhabitants of Walton in this county,
 our monthly meeting appointed a meeting to be held there,
@@ -52,8 +56,13 @@ and after my return home, receiving an acceptable letter from one of their compa
 I wrote an answer; from which the following is an extract,
 dated the 8th of the second month this year.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 Mary Alexander to Joseph Browne
 
+[.salutation]
 Dear Friend.
 
 Having frequently felt my mind bended towards thyself,
@@ -101,7 +110,13 @@ And I believe thou wilt be favoured with a continuance of the like sustaining po
 for truly he is not wanting in compassion to his depending dedicated children; but,
 unto such, a morsel of food will be handed in due season.
 
+--
+
+[.offset]
 +++[+++Of this friend Joseph Browne, the following account is given in Piety Promoted.
+
+[.embedded-content-document.testimony]
+--
 
 In the present day, when it may at least be said, that liberality of sentiment,
 and mutual allowance for difference of judgment, on religious matters,
@@ -132,7 +147,7 @@ generally performing the journey on foot.
 He twice attended the Yearly meeting in London,
 where I remember to have observed with pleasure the simplicity of his manners and appearance.
 
-"`In or about the year 1781, he, with several other Friends, was summoned,
+In or about the year 1781, he, with several other Friends, was summoned,
 at the suit of the Vicar of Carlton, in which parish he lived,
 for not having paid his small tithes, which amounted,
 as appeared by a subsequent inquiry, to about thirty-four shillings annually,
@@ -220,4 +235,6 @@ will fall before the prevalence of pure Christian love; and surely,
 when these are exterminated from the heart,
 is it not so far prepared for its best and most sacred purpose,
 to be a temple of the holy Spirit?
-Amen!
+Amen!]
+
+--
